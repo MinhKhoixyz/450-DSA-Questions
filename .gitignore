@@ -1,0 +1,40 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+gen/
+*.log
+.DS_Store
+Thumbs.db
+
+### Java & Compiled Files ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Build Tools (Maven/Gradle) ###
+target/
+build/
+.gradle/
+.m2/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
